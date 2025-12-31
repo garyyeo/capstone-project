@@ -1,0 +1,30 @@
+Total users: 4
+Total tasks: 4
+
+User: admin
+  Tasks assigned: 2
+  % of total tasks: 50.00%
+  % completed: 50.00%
+  % to be completed: 50.00%
+  % overdue (not completed): 50.00%
+
+User: gary
+  Tasks assigned: 0
+  % of total tasks: 0.00%
+  % completed: 0.00%
+  % to be completed: 0.00%
+  % overdue (not completed): 0.00%
+
+User: ben
+  Tasks assigned: 1
+  % of total tasks: 25.00%
+  % completed: 0.00%
+  % to be completed: 100.00%
+  % overdue (not completed): 0.00%
+
+User: ian
+  Tasks assigned: 1
+  % of total tasks: 25.00%
+  % completed: 0.00%
+  % to be completed: 100.00%
+  % overdue (not completed): 0.00%
