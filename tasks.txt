@@ -1,0 +1,4 @@
+admin, Register Users with task_manager.py, Use task_manager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, do work, work for capstone, 31 Dec 2025, 25 Dec 2025, Yes
+ben, finish coding, coding for motion, 31 Dec 2025, 01 Jan 2026, No
+ian, finish video, video editing, 31 Dec 2025, 05 Feb 2026, No
